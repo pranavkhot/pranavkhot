@@ -47,7 +47,7 @@ Hi! I'm **Pranav Khot**, a developer who believes in blending **creativity** wit
 
 ### 📈 Stats & Activity:
 
-<p align="center"> <!-- GitHub Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKhot&theme=dark" alt="Pranav's GitHub Streak" /> </p> <p align="center"> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKhot&layout=compact&theme=dark" alt="Pranav's Top Languages" /> </p>
+<p align="center"> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKhot&layout=compact&theme=dark" alt="Pranav's Top Languages" /> </p>
 
 ---
 
